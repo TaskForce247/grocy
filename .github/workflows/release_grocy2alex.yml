@@ -56,5 +56,5 @@ jobs:
         with:
           app-name: 'grocy2alex'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_167B53CAE5D7432DBD97D42B0D1C2C50 }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_8FC53AFA721C4692BD6B664B11357CC9 }}
           package: .
